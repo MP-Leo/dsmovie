@@ -3,7 +3,7 @@ import {ReactComponent as StarHalf} from 'assets/img/star-half.svg'
 import {ReactComponent as StarEmpty} from 'assets/img/star-empty.svg'
 
 import './style.css'
-import { start } from 'repl'
+
 
 type Props = {
   score : number
